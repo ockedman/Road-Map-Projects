@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "desc": "dab",
+      "status": "todo",
+      "createdAt": "2024-12-25T16:07:21.768Z",
+      "updatedAt": "2024-12-25T16:07:21.768Z"
+    },
+    {
+      "id": 2,
+      "status": "done",
+      "createdAt": "2024-12-25T16:07:27.448Z",
+      "updatedAt": "2024-12-25T16:12:30.153Z",
+      "desc": "nope"
+    },
+    {
+      "id": 3,
+      "desc": "retour",
+      "status": "todo",
+      "createdAt": "2024-12-25T16:07:38.674Z",
+      "updatedAt": "2024-12-25T16:07:38.674Z"
+    }
+  ]
+}
